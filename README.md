@@ -1,0 +1,1 @@
+Sample application for [https://ajurasz.github.io/2019-05-12-wlp-spring-aop](https://ajurasz.github.io/2019-05-12-wlp-spring-aop)
